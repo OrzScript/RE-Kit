@@ -1,0 +1,14 @@
+{
+  "hyperion": {
+    "SetInsert": "0xCBAE30",
+    "BitMap": "0x297908",
+    "ByteHash": "0xD",
+    "PageHash": "0xC9E94648",
+    "PageMask": "0xFFFFFFFFFFFFFFFE",
+    "PageShift": "0xC",
+    "BitmapByteOffset": "0x13",
+    "BitmapBitOffset": "0x10",
+    "WhitelistedPages": "0x29AE70",
+    "WhitelistedMode": "0x7726AF3"
+  },
+}
